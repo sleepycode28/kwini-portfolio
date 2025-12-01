@@ -1,0 +1,104 @@
+
+/* SEO Project Specific Styles */
+
+.project-details {
+    background: var(--bg-color);
+    padding: 10rem 9% 4rem;
+}
+
+.project-content {
+    max-width: 90rem;
+    margin: 0 auto;
+    background: var(--second-bg-color);
+    padding: 4rem;
+    border-radius: 2rem;
+    box-shadow: 0 0 2rem rgba(0, 0, 0, .2);
+}
+
+.project-hero-image {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.project-hero-image img {
+    max-width: 100%;
+    border-radius: 1rem;
+    border: .2rem solid var(--main-color);
+    box-shadow: 0 0 1rem var(--main-color);
+}
+
+.project-info h3 {
+    font-size: 2.8rem;
+    color: var(--main-color);
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+}
+
+.project-info p, 
+.project-info li {
+    font-size: 1.6rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.project-info ul {
+    padding-left: 2rem;
+    list-style: disc;
+}
+
+.project-info h4 {
+    font-size: 2.2rem;
+    color: var(--text-color);
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+
+/* Image Collage Styles */
+.image-collage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 1.5rem;
+    align-items: center; /* Vertically align images */
+    margin-top: 3rem;
+}
+
+.collage-image {
+    position: relative;
+    border-radius: 1rem;
+    overflow: hidden; /* Ensures the border-radius is applied to the image */
+    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
+}
+
+.collage-image img {
+    width: 100%;
+    display: block;
+    border-radius: 1rem;
+}
+
+/* Create the overlap effect */
+.collage-image:nth-child(1) {
+    transform: rotate(-5deg) translateY(10%); 
+    z-index: 1;
+}
+
+.collage-image:nth-child(2) {
+    transform: rotate(3deg) translateY(-10%);
+}
+
+.btn-container {
+    text-align: center;
+    margin-top: 6rem;
+}
+
+/* Responsive adjustments for collage */
+@media (max-width: 768px) {
+    .image-collage {
+        grid-template-columns: 1fr;
+        gap: 3rem;
+    }
+
+    .collage-image:nth-child(1),
+    .collage-image:nth-child(2) {
+        transform: rotate(0) translateY(0);
+    }
+}
