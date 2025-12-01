@@ -290,13 +290,19 @@ span {
 }
 
 .about-me-content {
-    max-width: 90rem;
-    margin: 0 auto;
+    display: grid;
+    gap: 4rem;
 }
 
 .cv-download {
     text-align: center;
     margin-bottom: 3rem;
+}
+
+.cv-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 4rem;
 }
 
 .cv-section {
@@ -309,8 +315,23 @@ span {
     color: var(--main-color);
 }
 
+.cv-section p, .cv-section li {
+    font-size: 1.8rem;
+    line-height: 1.6;
+}
+
 .job {
+    background: var(--second-bg-color);
+    padding: 2rem;
+    border-radius: 1rem;
     margin-bottom: 2rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .2);
+    transition: .3s ease;
+}
+
+.job:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0 2rem rgba(0, 238, 255, 0.5);
 }
 
 .job h4 {
@@ -325,6 +346,13 @@ span {
     margin-bottom: 1rem;
 }
 
+.skills-card {
+    background: var(--second-bg-color);
+    padding: 2rem;
+    border-radius: 1rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, .2);
+}
+
 .skills-list {
     list-style: none;
     padding: 0;
@@ -334,10 +362,16 @@ span {
 }
 
 .skills-list li {
-    background: var(--second-bg-color);
-    padding: .5rem 1rem;
+    background: var(--bg-color);
+    padding: 1rem 1.5rem;
     border-radius: .5rem;
     font-size: 1.6rem;
+    transition: .3s ease;
+}
+
+.skills-list li:hover {
+    background: var(--main-color);
+    color: var(--bg-color);
 }
 
 
@@ -433,6 +467,10 @@ span {
 
     .services {
         padding-bottom: 7rem;
+    }
+
+    .cv-grid {
+        grid-template-columns: 1fr;
     }
 
     .footer {
