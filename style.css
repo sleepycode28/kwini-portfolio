@@ -82,7 +82,7 @@ section {
 }
 
 .home-img {
-    width: 35vw;
+    width: 45vw;
     background-image: url('images/pfp-removebg-preview.png');
     background-size: cover;
     background-position: center;
@@ -260,7 +260,7 @@ span {
 }
 
 .about-img {
-    width: 35vw;
+    width: 45vw;
     background-image: url('images/pfp-removebg-preview.png');
     background-size: cover;
     background-position: center;
@@ -429,7 +429,7 @@ span {
     }
 
     .home-img img {
-        width: 70vw;
+        width: 80vw;
         margin-top: 4rem;
     }
 
@@ -438,7 +438,7 @@ span {
     }
 
     .about-img img {
-        width: 70vw;
+        width: 80vw;
         margin-top: 4rem;
     }
 
@@ -449,12 +449,12 @@ span {
 
 @media (max-width: 617px) {
     .home-img img {
-        width: 80vw;
+        width: 90vw;
         margin-top: 8rem;
     }
 
     .about-img img {
-        width: 80vw;
+        width: 90vw;
         margin-top: 4rem;
     }
 }
