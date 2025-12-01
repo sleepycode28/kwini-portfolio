@@ -38,30 +38,38 @@ window.onscroll = () => {
 
 
 /*==================== typed js ====================*/
-const typed = new Typed('.multiple-text', {
-    strings: ['Frontend Developer', 'UI/UX Designer', 'SEO Specialist'],
-    typeSpeed: 100,
-    backSpeed: 100,
-    backDelay: 1000,
-    loop: true,
-    onStringTyped: (arrayPos, self) => {
-        const aboutContent = document.querySelector('.about-content');
-        const h3 = aboutContent.querySelector('h3');
-        const p = aboutContent.querySelector('p');
+const typedElement = document.querySelector('.multiple-text');
 
-        switch(arrayPos) {
-            case 0:
-                h3.textContent = 'Frontend Developer!';
-                p.textContent = 'I am a self-taught frontend developer with a passion for creating beautiful and intuitive user interfaces. I have a strong understanding of HTML, CSS, and JavaScript, and I\'m always learning new technologies. I am a highly motivated and results-oriented individual, and I am confident in my ability to contribute to any team.';
-                break;
-            case 1:
-                h3.textContent = 'UI/UX Designer!';
-                p.textContent = 'As a UI/UX designer, I focus on creating user-centered designs that are both beautiful and easy to use. I have a strong understanding of design principles and I am proficient in a variety of design tools. I am passionate about creating user experiences that are both enjoyable and effective.';
-                break;
-            case 2:
-                h3.textContent = 'SEO Specialist!';
-                p.textContent = 'I am a data-driven SEO specialist with a proven track record of success. I have a deep understanding of how search engines work and I am an expert in keyword research, on-page optimization, and link building. I am passionate about helping businesses grow their organic traffic and improve their online visibility.';
-                break;
+if (typedElement) {
+    const typed = new Typed('.multiple-text', {
+        strings: ['Frontend Developer', 'UI/UX Designer', 'SEO Specialist'],
+        typeSpeed: 100,
+        backSpeed: 100,
+        backDelay: 1000,
+        loop: true,
+        onStringTyped: (arrayPos, self) => {
+            const aboutContent = document.querySelector('.about-content');
+            if (aboutContent) {
+                const h3 = aboutContent.querySelector('h3');
+                const p = aboutContent.querySelector('p');
+
+                if (h3 && p) {
+                    switch(arrayPos) {
+                        case 0:
+                            h3.textContent = 'Frontend Developer!';
+                            p.textContent = 'I am a self-taught frontend developer with a passion for creating beautiful and intuitive user interfaces. I have a strong understanding of HTML, CSS, and JavaScript, and I\'m always learning new technologies. I am a highly motivated and results-oriented individual, and I am confident in my ability to contribute to any team.';
+                            break;
+                        case 1:
+                            h3.textContent = 'UI/UX Designer!';
+                            p.textContent = 'As a UI/UX designer, I focus on creating user-centered designs that are both beautiful and easy to use. I have a strong understanding of design principles and I am proficient in a variety of design tools. I am passionate about creating user experiences that are both enjoyable and effective.';
+                            break;
+                        case 2:
+                            h3.textContent = 'SEO Specialist!';
+                            p.textContent = 'I am a data-driven SEO specialist with a proven track record of success. I have a deep understanding of how search engines work and I am an expert in keyword research, on-page optimization, and link building. I am passionate about helping businesses grow their organic traffic and improve their online visibility.';
+                            break;
+                    }
+                }
+            }
         }
-    }
-});
+    });
+}
