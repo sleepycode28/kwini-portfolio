@@ -1,14 +1,189 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Hello World</title>
-  <link href='/style.css' rel='stylesheet'>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kwini's Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
 </head>
+
 <body>
-  <h1>Hello, world!</h1>
-  <button onclick="console.log('hello');">Press me</button>
-  <script defer type="text/javascript" src="/main.js"></script>
+
+    <header class="header">
+        <a href="#" class="logo">Kwini.</a>
+
+        <nav class="navbar">
+            <a href="#home" class="active">Home</a>
+            <a href="#services">Services</a>
+            <a href="#tools">Tools</a>
+            <a href="#about">About Me</a>
+            <a href="#contact">Contact Me</a>
+        </nav>
+
+        <div class="bx bx-menu" id="menu-icon"></div>
+    </header>
+
+    <section class="home" id="home">
+        <div class="home-content">
+            <h3>Hello, It's Me</h3>
+            <h1>Kwini</h1>
+            <h3>And I'm a <span class="multiple-text"></span></h3>
+            <p>I am a passionate and creative professional with expertise in SEO, Email & Design, and Programming. I help businesses grow their online presence and create beautiful, functional websites.</p>
+            <div class="social-media">
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-twitter'></i></a>
+                <a href="#"><i class='bx bxl-instagram-alt'></i></a>
+                <a href="#"><i class='bx bxl-linkedin'></i></a>
+            </div>
+            <a href="#" class="btn">Download CV</a>
+        </div>
+
+        <div class="home-img">
+            <img src="images/portfolio-image.jpg" alt="Kwini's Portfolio Image">
+        </div>
+    </section>
+
+    <section class="services" id="services">
+        <h2 class="heading">Our <span>Services</span></h2>
+
+        <div class="services-container">
+            <div class="services-box">
+                <i class='bx bx-code-alt'></i>
+                <h3>Code/Programming</h3>
+                <p>Building responsive and dynamic websites using modern technologies. I focus on clean code, performance, and user experience.</p>
+                <a href="frontend.html" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bxs-paint'></i>
+                <h3>Email & Design</h3>
+                <p>Creating visually appealing and effective email campaigns and designs. I can help you with branding, UI/UX design, and marketing materials.</p>
+                <a href="designer.html" class="btn">Read More</a>
+            </div>
+
+            <div class="services-box">
+                <i class='bx bx-bar-chart-alt'></i>
+                <h3>SEO</h3>
+                <p>Optimizing websites to rank higher on search engines. I use a data-driven approach to increase organic traffic and improve your online visibility.</p>
+                <a href="seo.html" class="btn">Read More</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="tools" id="tools">
+        <h2 class="heading">My <span>Tools</span></h2>
+
+        <div class="tools-container">
+            <div class="tools-category">
+                <h3>Design</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-figma'></i><span>Figma</span></div>
+                    <div class="tool-item"><i class='bx bxs-paint'></i><span>Canva</span></div>
+                </div>
+            </div>
+            <div class="tools-category">
+                <h3>Development</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-html5'></i><span>HTML</span></div>
+                    <div class="tool-item"><i class='bx bxl-css3'></i><span>CSS</span></div>
+                    <div class="tool-item"><i class='bx bxl-javascript'></i><span>JavaScript</span></div>
+                    <div class="tool-item"><i class='bx bxl-php'></i><span>PHP</span></div>
+                    <div class="tool-item"><i class='bx bxl-java'></i><span>Java</span></div>
+                    <div class="tool-item"><i class='bx bxl-python'></i><span>Python</span></div>
+                    <div class="tool-item"><i class='bx bxl-nodejs'></i><span>Node.js</span></div>
+                    <div class="tool-item"><i class='bx bxl-firebase'></i><span>Firebase</span></div>
+                </div>
+            </div>
+            <div class="tools-category">
+                <h3>Platforms</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-shopify'></i><span>Shopify</span></div>
+                    <div class="tool-item"><i class='bx bxl-squarespace'></i><span>Squarespace</span></div>
+                    <div class="tool-item"><i class='bx bxl-mailchimp'></i><span>Mailchimp</span></div>
+                    <div class="tool-item"><i class='bx bxl-tiktok'></i><span>TikTok Shop</span></div>
+                </div>
+            </div>
+            <div class="tools-category">
+                <h3>SEO</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-google'></i><span>Google Analytics</span></div>
+                    <div class="tool-item"><i class='bx bx-line-chart'></i><span>SEMrush</span></div>
+                    <div class="tool-item"><i class='bx bx-bar-chart-alt'></i><span>Ahrefs</span></div>
+                    <div class="tool-item"><i class='bx bx-pen'></i><span>Wordstream</span></div>
+                    <div class="tool-item"><i class='bx bxl-google-cloud'></i><span>Search Console</span></div>
+                    <div class="tool-item"><i class='bx bx-code-curly'></i><span>Schema Validator</span></div>
+                    <div class="tool-item"><i class='bx bx-text'></i><span>Rich Text Results</span></div>
+                </div>
+            </div>
+            <div class="tools-category">
+                <h3>Communication</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-slack'></i><span>Slack</span></div>
+                    <div class="tool-item"><i class='bx bxs-message-dots'></i><span>Lark</span></div>
+                    <div class="tool-item"><i class='bx bxl-gmail'></i><span>Gmail</span></div>
+                    <div class="tool-item"><i class='bx bxs-video'></i><span>Zoom</span></div>
+                    <div class="tool-item"><i class='bx bxl-google'></i><span>Google Meet</span></div>
+                </div>
+            </div>
+            <div class="tools-category">
+                <h3>Productivity</h3>
+                <div class="tools-list">
+                    <div class="tool-item"><i class='bx bxl-google'></i><span>GSuite</span></div>
+                    <div class="tool-item"><i class='bx bxs-file-doc'></i><span>MS Word</span></div>
+                    <div class="tool-item"><i class='bx bxs-file'></i><span>MS Excel</span></div>
+                    <div class="tool-item"><i class='bx bxs-calendar'></i><span>Calendar</span></div>
+                    <div class="tool-item"><i class='bx bxs-bot'></i><span>Gemini</span></div>
+                    <div class="tool-item"><i class='bx bxs-bot'></i><span>ChatGPT</span></div>
+                    <div class="tool-item"><i class='bx bx-search'></i><span>Perplexity</span></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="about" id="about">
+        <div class="about-img">
+            <img src="images/portfolio-image.jpg" alt="Kwini's Portfolio Image">
+        </div>
+
+        <div class="about-content">
+            <h2 class="heading">About <span>Me</span></h2>
+            <h3>Frontend Developer!</h3>
+            <p>I am a self-taught frontend developer with a passion for creating beautiful and intuitive user interfaces. I have a strong understanding of HTML, CSS, and JavaScript, and I'm always learning new technologies. I am a highly motivated and results-oriented individual, and I am confident in my ability to contribute to any team.</p>
+            <a href="#" class="btn">Read More</a>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2 class="heading">Contact <span>Me!</span></h2>
+
+        <form action="#">
+            <div class="input-box">
+                <input type="text" placeholder="Full Name">
+                <input type="email" placeholder="Email Address">
+            </div>
+            <div class="input-box">
+                <input type="number" placeholder="Mobile Number">
+                <input type="text" placeholder="Email Subject">
+            </div>
+            <textarea name="" id="" cols="30" rows="10" placeholder="Your Message"></textarea>
+            <input type="submit" value="Send Message" class="btn">
+        </form>
+    </section>
+
+    <footer class="footer">
+        <div class="footer-text">
+            <p>Copyright &copy; 2023 by Kwini | All Rights Reserved.</p>
+        </div>
+
+        <div class="footer-iconTop">
+            <a href="#home"><i class='bx bx-up-arrow-alt'></i></a>
+        </div>
+    </footer>
+
+    <script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+    <script src="main.js"></script>
 </body>
+
 </html>
