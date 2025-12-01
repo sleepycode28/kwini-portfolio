@@ -285,6 +285,62 @@ span {
     margin: 2rem 0 3rem;
 }
 
+.about-me {
+    background: var(--bg-color);
+}
+
+.about-me-content {
+    max-width: 90rem;
+    margin: 0 auto;
+}
+
+.cv-download {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+.cv-section {
+    margin-bottom: 3rem;
+}
+
+.cv-section h3 {
+    font-size: 2.8rem;
+    margin-bottom: 1.5rem;
+    color: var(--main-color);
+}
+
+.job {
+    margin-bottom: 2rem;
+}
+
+.job h4 {
+    font-size: 2.2rem;
+    margin-bottom: .5rem;
+}
+
+.job .date {
+    font-size: 1.6rem;
+    font-style: italic;
+    color: var(--main-color);
+    margin-bottom: 1rem;
+}
+
+.skills-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+
+.skills-list li {
+    background: var(--second-bg-color);
+    padding: .5rem 1rem;
+    border-radius: .5rem;
+    font-size: 1.6rem;
+}
+
+
 .contact h2 {
     margin-bottom: 3rem;
 }
