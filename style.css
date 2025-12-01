@@ -453,6 +453,32 @@ span {
     color: var(--second-bg-color);
 }
 
+.services-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem 0;
+}
+
+.sample-card {
+    background: var(--bg-color);
+    border-radius: 2rem;
+    border: .2rem solid var(--main-color);
+    padding: 3rem 2rem 4rem;
+    text-align: center;
+    width: 30rem;
+}
+
+.sample-card-content h3 {
+    font-size: 2.6rem;
+    color: var(--main-color);
+}
+
+.sample-card-content p {
+    font-size: 1.6rem;
+    margin: 1rem 0 3rem;
+}
+
 .contact h2 {
     margin-bottom: 3rem;
 }
