@@ -83,7 +83,7 @@ section {
 
 .home-img {
     width: 35vw;
-    background-image: url('images/portfolio-image.jpg');
+    background-image: url('images/pfp-removebg-preview.png');
     background-size: cover;
     background-position: center;
 }
@@ -261,7 +261,7 @@ span {
 
 .about-img {
     width: 35vw;
-    background-image: url('images/portfolio-image.jpg');
+    background-image: url('images/pfp-removebg-preview.png');
     background-size: cover;
     background-position: center;
 }
