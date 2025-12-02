@@ -654,9 +654,8 @@ span {
     text-align: center;
     display: flex;
     flex-direction: column;
-    justify-content: space-between; /* Changed */
     align-items: center;
-    flex-grow: 1; /* Changed */
+    flex-grow: 1; 
     transform: none;
     position: static;
     background: transparent;
@@ -671,12 +670,12 @@ span {
 .projects-page .projects-layer p {
     font-size: 1.5rem;
     margin-bottom: 2rem;
-    flex-grow: 1; /* Changed */
 }
 
 .projects-page .projects-layer .btn {
     background: var(--main-color);
     color: var(--second-bg-color);
+    margin-top: auto;
 }
 
 
