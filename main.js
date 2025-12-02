@@ -88,3 +88,14 @@ if (typedElement) {
         }
     });
 }
+
+/*==================== image switcher ====================*/
+function switchImage(clickedImage) {
+    const galleryImages = document.querySelectorAll('.gallery-img');
+    const currentActive = document.querySelector('.gallery-img.active');
+
+    if (clickedImage !== currentActive) {
+        currentActive.classList.remove('active');
+        clickedImage.classList.add('active');
+    }
+}

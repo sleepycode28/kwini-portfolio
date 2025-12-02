@@ -387,113 +387,76 @@ span {
     color: var(--second-bg-color);
 }
 
-.portfolio {
-    background: var(--second-bg-color);
-}
-
-.portfolio h2 {
-    margin-bottom: 4rem;
-}
-
-.sample-cards-container {
+.project-details {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 2.5rem;
-}
-
-.sample-card {
-    background: var(--bg-color);
-    border-radius: 1.5rem;
-    border: .2rem solid var(--main-color);
-    padding: 2rem 1.5rem 3rem;
-    text-align: center;
-    transition: .5s ease;
-}
-
-.sample-card img {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-    border-radius: 1.5rem;
-    margin-bottom: 1.5rem;
-}
-
-.sample-card:hover {
-    transform: scale(1.02);
-    border-color: var(--main-color);
-}
-
-.sample-card-content h3 {
-    font-size: 2rem;
-    color: var(--main-color);
-    margin-bottom: 1rem;
-}
-
-.sample-card-content p {
-    font-size: 1.4rem;
-    margin: 1rem 0 2rem;
-}
-
-.project-detail {
-    padding: 10rem 9% 7rem;
-}
-
-.project-detail-container {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
+    grid-template-columns: 1fr 1fr;
     gap: 4rem;
+    align-items: flex-start;
 }
 
-.project-detail-main h3 {
-    font-size: 2.8rem;
-    margin-bottom: 1.5rem;
-    color: var(--main-color);
+.project-gallery {
+    position: relative;
+    width: 100%;
+    height: 600px; 
 }
 
-.project-detail-main h4 {
-    font-size: 2.2rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
+.gallery-img {
+    position: absolute;
+    width: 80%;
+    border-radius: 1.5rem;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: transform 0.3s ease, z-index 0.3s ease;
+    z-index: 1;
 }
 
-.project-detail-main p,
-.project-detail-main ul li {
-    font-size: 1.6rem;
-    line-height: 1.6;
+.gallery-img.active {
+    transform: scale(1.1) translateX(10%);
+    z-index: 10;
 }
 
-.project-detail-main ul {
-    list-style-position: inside;
+.gallery-img:not(.active) {
+    transform: scale(1) translateX(0);
+    z-index: 5;
 }
 
-.project-detail-sidebar .project-detail-card {
-    background: var(--second-bg-color);
-    padding: 2rem;
-    border-radius: 1rem;
+
+.project-info h2 {
+    font-size: 3.6rem;
     margin-bottom: 2rem;
 }
 
-.project-detail-sidebar .project-detail-card h4 {
-    font-size: 2.2rem;
+.project-info h3 {
+    font-size: 2.4rem;
+    color: var(--main-color);
+    margin-top: 3rem;
     margin-bottom: 1.5rem;
 }
 
-.project-detail-sidebar .project-detail-card ul {
-    list-style: none;
-    padding: 0;
+.project-info h4 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
 }
 
-.project-detail-sidebar .project-detail-card ul li {
+.project-info p,
+.project-info ul li {
     font-size: 1.6rem;
-    margin-bottom: 1rem;
+    line-height: 1.7;
 }
 
-.project-detail-image {
-    width: 100%;
-    border-radius: 1rem;
-    margin-bottom: 1rem;
+.project-info ul {
+    list-style-position: inside;
+    padding-left: 1rem;
 }
 
+.project-info > ul > li {
+    margin-bottom: 2rem;
+}
+
+.project-info ul ul {
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
 .maintenance {
     text-align: center;
 }
@@ -619,6 +582,44 @@ span {
     -moz-columns: 2;
 }
 
+/* New styles for sample cards */
+.sample-cards-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 2.5rem;
+}
+
+.sample-card {
+    background: var(--second-bg-color);
+    border-radius: 2rem;
+    box-shadow: 0 0 1rem var(--bg-color);
+    overflow: hidden;
+    text-align: center;
+    transition: .5s ease;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 250px;
+}
+
+.sample-card:hover {
+    transform: scale(1.05);
+}
+
+.sample-card-content {
+    padding: 3rem;
+}
+
+.sample-card-content h3 {
+    font-size: 2.2rem;
+    margin-bottom: 1rem;
+}
+
+.sample-card-content p {
+    font-size: 1.6rem;
+    margin-bottom: 2rem;
+}
+
 /* BREAKPOINTS */
 @media (max-width: 1200px) {
     html {
@@ -647,7 +648,7 @@ span {
         grid-template-columns: repeat(2, 1fr);
     }
 
-    .project-detail-container {
+    .project-details {
         grid-template-columns: 1fr;
     }
 
@@ -745,6 +746,9 @@ span {
         margin-top: 4rem;
     }
 
+    .project-gallery {
+        height: 400px;
+    }
 }
 
 @media (max-width: 450px) {
