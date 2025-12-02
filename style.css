@@ -525,6 +525,92 @@ span {
     transform: scale(1.1);
 }
 
+.about-me-container {
+    max-width: 900px;
+    margin: 0 auto;
+}
+
+.about-me-summary,
+.work-experience,
+.key-skills,
+.certifications,
+.character-reference {
+    background: var(--second-bg-color);
+    padding: 2rem;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.about-me-summary h3,
+.work-experience h3,
+.key-skills h3,
+.certifications h3,
+.character-reference h3 {
+    font-size: 2.4rem;
+    color: var(--main-color);
+    margin-bottom: 1.5rem;
+}
+
+.about-me-summary p,
+.character-reference p {
+    font-size: 1.6rem;
+    line-height: 1.6;
+}
+
+.experience-item {
+    margin-bottom: 2rem;
+}
+
+.experience-item:last-child {
+    margin-bottom: 0;
+}
+
+.experience-item h4 {
+    font-size: 2rem;
+    margin-bottom: .5rem;
+}
+
+.experience-item .date {
+    font-size: 1.4rem;
+    color: var(--main-color);
+    margin-bottom: 1rem;
+}
+
+.experience-item ul,
+.key-skills ul,
+.certifications ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.experience-item ul li,
+.key-skills ul li,
+.certifications ul li {
+    font-size: 1.6rem;
+    line-height: 1.6;
+    margin-bottom: .5rem;
+    padding-left: 1.5rem;
+    position: relative;
+}
+
+.experience-item ul li::before,
+.key-skills ul li::before,
+.certifications ul li::before {
+    content: '\2022';
+    color: var(--main-color);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1.5em;
+    position: absolute;
+    left: 1.5rem;
+}
+
+.key-skills ul {
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+}
 
 /* BREAKPOINTS */
 @media (max-width: 1200px) {
@@ -630,6 +716,12 @@ span {
 
     .sample-cards-container {
         grid-template-columns: 1fr;
+    }
+
+    .key-skills ul {
+        columns: 1;
+        -webkit-columns: 1;
+        -moz-columns: 1;
     }
 }
 
