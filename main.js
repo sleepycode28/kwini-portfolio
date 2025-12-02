@@ -36,6 +36,21 @@ window.onscroll = () => {
     navbar.classList.remove('active');
 };
 
+// Add this block to set the active link on page load for non-index pages
+document.addEventListener('DOMContentLoaded', () => {
+    const currentPage = window.location.pathname.split('/').pop();
+    if (currentPage && currentPage !== 'index.html') {
+        navLinks.forEach(link => {
+            if (link.getAttribute('href') === currentPage) {
+                // Remove active from other links
+                navLinks.forEach(l => l.classList.remove('active'));
+                // Add active to the current page link
+                link.classList.add('active');
+            }
+        });
+    }
+});
+
 
 /*==================== typed js ====================*/
 const typedElement = document.querySelector('.multiple-text');
