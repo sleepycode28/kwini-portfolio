@@ -878,3 +878,555 @@
 [error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
 [debug] [2025-12-02T07:14:39.101Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
 [debug] [2025-12-02T07:14:39.101Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:11.989Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.104Z] Running auto auth
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:27.141Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.141Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:27.192Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.196Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:27.198Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.198Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:27.209Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.209Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:00:27.215Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:00:27.215Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:07.113Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.114Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.128Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.129Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.129Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.130Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.132Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.132Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.133Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.133Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.134Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.135Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.135Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.135Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.136Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.136Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.137Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.137Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.138Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.138Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.138Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.138Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.139Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.140Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.140Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.140Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.141Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.141Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.142Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.142Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.151Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.151Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.151Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.151Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.152Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.152Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.153Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.153Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.153Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.153Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.155Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.155Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.155Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.155Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.156Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.156Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.157Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.157Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.157Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.158Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.158Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.158Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.159Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.159Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.159Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.159Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.160Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.160Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.161Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.161Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.161Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.162Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.162Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.162Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.163Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.163Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.163Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.164Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.168Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.169Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.169Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.169Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.170Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.170Z] No OAuth tokens found
+[debug] [2025-12-02T08:09:07.170Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:07.170Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:07.172Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.173Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.223Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.223Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.228Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.229Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.231Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.231Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.234Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.234Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.237Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.237Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.239Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.239Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.241Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.242Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.244Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:09:07.244Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.246Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.246Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.248Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.248Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.251Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.251Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.253Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.253Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.256Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.256Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.258Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.259Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.263Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.263Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.265Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:09:07.265Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:07.267Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:09:07.267Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:09:08.285Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:09:08.286Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.297Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:09:08.298Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.312Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:09:08.319Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.343Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:09:08.344Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:09:08.344Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:09:08.344Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.382Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:09:08.384Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.390Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:09:08.390Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.404Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:09:08.404Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.408Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:09:08.408Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.428Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:09:08.428Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.436Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:09:08.436Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.448Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:09:08.449Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.449Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:09:08.449Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.475Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.475Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.486Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.486Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:09:08.491Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:09:08.492Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.496Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:09:08.496Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:09:08.496Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:09:08.496Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.498Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:09:08.498Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:09:08.504Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:09:08.504Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.546Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.546Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.553Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.554Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.568Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.568Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:09:08.578Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:09:08.578Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:30.192Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.195Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.203Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.203Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.204Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.204Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.205Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.205Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.205Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.206Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.206Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.206Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.206Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.207Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.207Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.207Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.207Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.208Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.208Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.208Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.208Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.208Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.209Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.209Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.209Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.209Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.209Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.209Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.209Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.210Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.219Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.220Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.220Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.220Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.221Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.221Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.221Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.221Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.223Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.223Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.259Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.260Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.262Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.262Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.263Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.263Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.265Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.266Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.268Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.268Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.270Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.270Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.272Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.272Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.273Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:12:30.273Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:30.280Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.280Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.281Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.281Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.281Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.281Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.281Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.281Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.281Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.281Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.282Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.282Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.282Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.282Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.282Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.282Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.282Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.282Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.283Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.283Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.283Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.283Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.283Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.283Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.283Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.283Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.284Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.284Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.284Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.284Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.287Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.287Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.287Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.288Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.288Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.288Z] No OAuth tokens found
+[debug] [2025-12-02T08:12:30.288Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:30.288Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:12:30.289Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.289Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.291Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.291Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.293Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.293Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.295Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.295Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.297Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.297Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.298Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.299Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.300Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.300Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.302Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:12:30.302Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:30.303Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:12:30.303Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:12:31.293Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:12:31.293Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.306Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:12:31.306Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.331Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:12:31.331Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.331Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:12:31.333Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.335Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:12:31.335Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.338Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:12:31.338Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.338Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:12:31.338Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.340Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:12:31.340Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.342Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:12:31.342Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:12:31.347Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:12:31.347Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.353Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:12:31.353Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.353Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:12:31.353Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.354Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:12:31.354Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.357Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:12:31.357Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.363Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:12:31.363Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.366Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:12:31.366Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:12:31.370Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:12:31.370Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:12:31.371Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:12:31.371Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.376Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.376Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.380Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.380Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.405Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.408Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.411Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.411Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.420Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.421Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:12:31.422Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:12:31.422Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:14.610Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.611Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.631Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.631Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.632Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.632Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.634Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.634Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.635Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.635Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.636Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.637Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.637Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.637Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.638Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.639Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.639Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.639Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.640Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.641Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.641Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.641Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.642Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.642Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.643Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.643Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.644Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.645Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.645Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.646Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.659Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.659Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.659Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.660Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.660Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.661Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.661Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.661Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.661Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.661Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.663Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.663Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.664Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.664Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.666Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.667Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.667Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.668Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.669Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.669Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.669Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.670Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.670Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.670Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.671Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.671Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.672Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.672Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.672Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.673Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.673Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.674Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.674Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.674Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.675Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.675Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.676Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.676Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.680Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.681Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.681Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.681Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.682Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.682Z] No OAuth tokens found
+[debug] [2025-12-02T08:14:14.682Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:14.683Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:14.684Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.684Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.740Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.740Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.745Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.745Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.748Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.748Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.751Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.751Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.753Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.754Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.756Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.756Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.759Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.759Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.761Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:14:14.761Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.764Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.764Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.767Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.767Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.769Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.769Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.771Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.771Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.773Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.773Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.775Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.775Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.778Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.778Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.780Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [none]
+[debug] [2025-12-02T08:14:14.781Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:14.783Z] >>> [apiv2][query] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [none]
+[debug] [2025-12-02T08:14:14.784Z] >>> [apiv2][(partial)header] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com x-goog-quota-user=projects/kwini-portfolio
+[debug] [2025-12-02T08:14:15.295Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:14:15.298Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.798Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:14:15.801Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.823Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:14:15.824Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.831Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:14:15.831Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.866Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com 403
+[debug] [2025-12-02T08:14:15.868Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/storage.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.889Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:14:15.889Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.891Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:14:15.891Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.892Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com 403
+[debug] [2025-12-02T08:14:15.892Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseremoteconfig.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.893Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:14:15.894Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.906Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com 403
+[debug] [2025-12-02T08:14:15.906Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/identitytoolkit.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.908Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:14:15.908Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:14:15.927Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com 403
+[debug] [2025-12-02T08:14:15.927Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebasedataconnect.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.945Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com 403
+[debug] [2025-12-02T08:14:15.946Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseio.com [omitted]
+[debug] [2025-12-02T08:14:15.946Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com 403
+[debug] [2025-12-02T08:14:15.946Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firestore.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.951Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com 403
+[debug] [2025-12-02T08:14:15.951Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/fcm.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:15.959Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:14:15.959Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:15.973Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:15.973Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:15.977Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:15.978Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[debug] [2025-12-02T08:14:15.988Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com 403
+[debug] [2025-12-02T08:14:15.989Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/firebaseapphosting.googleapis.com [omitted]
+[debug] [2025-12-02T08:14:16.000Z] <<< [apiv2][status] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com 403
+[debug] [2025-12-02T08:14:16.000Z] <<< [apiv2][body] GET https://serviceusage.googleapis.com/v1/projects/kwini-portfolio/services/cloudfunctions.googleapis.com [omitted]
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:16.030Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:16.030Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:16.036Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:16.036Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:16.052Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:16.053Z] > authorizing via signed-in user (kisstaku@gmail.com)
+[error] Failed to fetch Firebase Project from Studio Workspace because WORKSPACE_SLUG environment variable is empty
+[debug] [2025-12-02T08:14:16.057Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/userinfo.email"]
+[debug] [2025-12-02T08:14:16.057Z] > authorizing via signed-in user (kisstaku@gmail.com)
