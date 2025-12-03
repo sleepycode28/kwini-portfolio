@@ -1,0 +1,123 @@
+/* Spaceduck Project Specific Styles */
+
+.project-details {
+    padding: 10rem 9% 4rem;
+}
+
+.project-content {
+    max-width: 1200px;
+    margin: 0 auto;
+    background: var(--second-bg-color);
+    padding: 3rem;
+    border-radius: 2rem;
+}
+
+.project-detail-container {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 3rem;
+}
+
+.project-detail-main h3 {
+    font-size: 2.4rem;
+    color: var(--main-color);
+    margin-bottom: 1.5rem;
+}
+
+.project-detail-main p {
+    font-size: 1.6rem;
+    line-height: 1.7;
+    margin-bottom: 2rem;
+}
+
+.project-detail-main h4 {
+    font-size: 2rem;
+    margin: 2.5rem 0 1.5rem;
+    color: var(--main-color);
+}
+
+.project-detail-main ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-detail-main ul li {
+    font-size: 1.6rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+    padding-left: 2rem;
+    position: relative;
+}
+
+.project-detail-main ul li::before {
+    content: '\2022';
+    color: var(--main-color);
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1.5em;
+    position: absolute;
+    left: 1.5rem;
+}
+
+.project-detail-sidebar .project-detail-card {
+    background: #3e4a5c;
+    padding: 2rem;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.project-detail-sidebar .project-detail-card h4 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    color: var(--main-color);
+}
+
+.project-detail-sidebar .project-detail-card ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.project-detail-sidebar .project-detail-card ul li {
+    font-size: 1.6rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.project-detail-sidebar .social-media a {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
+    border: .2rem solid var(--main-color);
+    border-radius: 50%;
+    font-size: 2rem;
+    color: var(--main-color);
+    margin: 0 1.5rem 0 0;
+    transition: .5s ease;
+}
+
+.project-detail-sidebar .social-media a:hover {
+    background: var(--main-color);
+    color: var(--second-bg-color);
+    box-shadow: 0 0 1rem var(--main-color);
+}
+
+.project-detail-image {
+    width: 100%;
+    border-radius: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.btn-container {
+    text-align: center;
+    margin-top: 4rem;
+}
+
+@media (max-width: 991px) {
+    .project-detail-container {
+        grid-template-columns: 1fr;
+    }
+}
