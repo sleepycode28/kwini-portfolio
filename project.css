@@ -1,205 +1,170 @@
-/* Generic Project Page Styles */
-
+/* General Project Details */
 .project-details {
-    background: var(--bg-color);
     padding: 10rem 9% 4rem;
 }
 
 .project-content {
-    max-width: 120rem; 
+    max-width: 900px;
     margin: 0 auto;
     background: var(--second-bg-color);
-    padding: 4rem;
+    padding: 3rem;
     border-radius: 2rem;
-    box-shadow: 0 0 2rem rgba(0, 0, 0, .2);
 }
 
 .project-hero-image {
-    text-align: center;
+    width: 100%;
     margin-bottom: 3rem;
+    border-radius: 1rem;
+    overflow: hidden;
 }
 
 .project-hero-image img {
-    max-width: 100%;
-    border-radius: 1rem;
-    border: .2rem solid var(--main-color);
-    box-shadow: 0 0 1rem var(--main-color);
+    width: 100%;
+    display: block;
 }
 
 .project-info h3 {
-    font-size: 2.8rem;
+    font-size: 2.4rem;
     color: var(--main-color);
-    margin-top: 4rem;
-    margin-bottom: 1.5rem;
-    border-bottom: .2rem solid var(--main-color);
-    padding-bottom: .5rem;
-}
-
-.project-info p, 
-.project-info li {
-    font-size: 1.6rem;
-    line-height: 1.7;
-    margin-bottom: 1rem;
+    margin: 2.5rem 0 1.5rem;
 }
 
 .project-info ul {
-    padding-left: 2rem;
-    list-style: disc;
+    list-style: none;
+    padding-left: 0;
 }
 
-.project-info ul li::marker {
-    color: var(--main-color);
-}
-
-.project-info h4 {
-    font-size: 2.2rem;
-    color: var(--text-color);
-    margin-top: 4rem;
-    margin-bottom: 2rem;
-}
-
-/* Spaceduck Project Specific Two-Column Layout */
-.project-detail-container {
-    display: grid;
-    grid-template-columns: 2fr 1fr;
-    gap: 4rem;
-    align-items: flex-start;
-}
-
-.project-detail-main h3 {
-    font-size: 2.8rem;
-    color: var(--main-color);
-    margin-top: 0;
-    margin-bottom: 2rem;
-    border-bottom: none;
-}
-
-.project-detail-main h4 {
-    font-size: 2.2rem;
-    color: var(--text-color);
-    margin-top: 3rem;
-    margin-bottom: 1.5rem;
-}
-
-.project-detail-main p,
-.project-detail-main li {
+.project-info ul li {
     font-size: 1.6rem;
     line-height: 1.7;
     margin-bottom: 1rem;
-}
-
-.project-detail-main ul {
     padding-left: 2rem;
-    list-style: disc;
+    position: relative;
 }
 
-.project-detail-main ul li::marker {
+.project-info ul li::before {
+    content: '\2022'; 
     color: var(--main-color);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em; 
+    margin-left: -1.5em;
+    position: absolute;
+    left: 1.5rem;
 }
 
-.project-detail-sidebar .project-detail-card {
-    background: var(--bg-color);
-    padding: 3rem;
-    border-radius: 2rem;
-    margin-bottom: 3rem;
-    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-}
-
-.project-detail-card h4 {
-    font-size: 2.2rem;
-    color: var(--main-color);
-    margin-top: 0;
+.project-info p {
+    font-size: 1.6rem;
+    line-height: 1.7;
     margin-bottom: 2rem;
 }
 
-.project-detail-card ul {
-    padding-left: 2rem;
+.project-links-container {
+    margin: 2rem 0;
+    text-align: center;
 }
 
-.project-detail-card li {
-    font-size: 1.6rem;
-    margin-bottom: 1rem;
-    list-style: disc;
+.project-links-container h4 {
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
 }
 
-.project-detail-card li::marker {
-    color: var(--main-color);
-}
-
-.project-detail-card .social-media {
+.project-links {
     display: flex;
     justify-content: center;
-    gap: 2rem;
-}
-
-.project-detail-card .social-media a {
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-    width: 5rem;
-    height: 5rem;
-    background: transparent;
-    border: .2rem solid var(--main-color);
-    border-radius: 50%;
-    font-size: 2rem;
-    color: var(--main-color);
-    transition: .5s ease;
-}
-
-.project-detail-card .social-media a:hover {
-    background: var(--main-color);
-    color: var(--second-bg-color);
-    box-shadow: 0 0 1rem var(--main-color);
-}
-
-.project-detail-image {
-    width: 100%;
-    border-radius: 1rem;
-    margin-bottom: 1.5rem;
-    height: auto; /* Maintain aspect ratio */
-    object-fit: cover;
-}
-
-/* Image Collage Styles */
-.image-collage {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
     gap: 1.5rem;
-    align-items: center;
-    margin-top: 3rem;
+    flex-wrap: wrap;
 }
 
-.collage-image {
-    position: relative;
-    border-radius: 1rem;
-    overflow: hidden;
-    box-shadow: 0 10px 20px rgba(0,0,0,0.2);
-}
-
-.collage-image img {
-    width: 100%;
-    display: block;
-    border-radius: 1rem;
-}
-
-/* Results and Graph Styles */
+/* Results Grid & Graphs */
 .results-grid {
     display: grid;
     grid-template-columns: 2fr 1fr;
     gap: 3rem;
     align-items: center;
-    margin-top: 3rem;
+    margin: 3rem 0;
 }
 
-/* Other styles from the original project.css... */
+.graph-container h4 {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.graph-bar-container {
+    margin-bottom: 1.5rem;
+}
+
+.bar-label {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.4rem;
+    margin-bottom: .5rem;
+}
+
+.graph-bar-bg {
+    width: 100%;
+    background-color: #3e4a5c;
+    height: 2rem;
+    border-radius: 1rem;
+    overflow: hidden;
+}
+
+.graph-bar {
+    height: 100%;
+    background-color: var(--main-color);
+    border-radius: 1rem;
+}
+
+.key-metric-container {
+    background: #3e4a5c;
+    padding: 2rem;
+    border-radius: 1.5rem;
+    text-align: center;
+}
+
+.key-metric-container h4 {
+    font-size: 1.8rem;
+    margin-bottom: 1rem;
+}
+
+.key-metric-value {
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: var(--main-color);
+}
+
+/* Image Collage */
+.image-collage {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem; 
+    margin: 3rem 0;
+    padding-bottom: 2rem; /* Added padding */
+}
+
+.collage-image img {
+    width: 100%;
+    border-radius: 1rem;
+    transition: transform 0.4s ease;
+}
+
+.collage-image:hover img {
+    transform: scale(1.05);
+}
+
+/* Centered Back Button */
+.btn-container {
+    text-align: center;
+    margin-top: 4rem;
+}
 
 /* Responsive adjustments */
-@media (max-width: 991px) {
-    .project-detail-container {
+@media (max-width: 768px) {
+    .results-grid {
         grid-template-columns: 1fr;
     }
 
-    .project-detail-sidebar {
-        order: -1;
+    .image-collage {
+        grid-template-columns: 1fr;
     }
 }
