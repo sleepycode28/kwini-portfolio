@@ -1,0 +1,95 @@
+/* Project-Specific Two-Column Scrapbook Layout */
+
+.project-detail-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    align-items: flex-start; /* Align items to the top */
+    margin-top: 5rem;
+}
+
+.project-images-scrapbook {
+    position: relative;
+    height: 60vh; /* Adjust height as needed */
+    min-height: 400px; 
+}
+
+.scrapbook-image {
+    position: absolute;
+    width: 70%;
+    border-radius: 1.5rem;
+    border: .2rem solid var(--main-color);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease, z-index 0.3s ease;
+    cursor: pointer;
+}
+
+.scrapbook-image:nth-child(1) {
+    transform: rotate(-8deg);
+    top: 5%;
+    left: 5%;
+    z-index: 1;
+}
+
+.scrapbook-image:nth-child(2) {
+    transform: rotate(5deg);
+    top: 20%;
+    left: 25%;
+    z-index: 2;
+}
+
+/* When an image is on top */
+.scrapbook-image.is-on-top {
+    transform: scale(1.05) rotate(0deg) !important;
+    z-index: 10;
+}
+
+
+.project-detail-info {
+    padding-top: 2rem;
+}
+
+.project-detail-info h3 {
+    font-size: 2.8rem;
+    color: var(--main-color);
+    margin-bottom: 2rem;
+}
+
+.project-detail-info p, .project-detail-info li {
+    font-size: 1.6rem;
+    line-height: 1.7;
+    margin-bottom: 1rem;
+}
+
+.project-detail-info ul {
+    padding-left: 2rem;
+    list-style: disc;
+}
+
+.project-detail-info ul li::marker {
+    color: var(--main-color);
+}
+
+/* === FIX FOR FOOTER OVERLAP === */
+/* Add a large top margin to the footer on these specific pages
+   to push it down and prevent overlap from the scrapbook images. */
+.footer {
+    margin-top: 20rem;
+}
+
+
+/* Responsive adjustments */
+@media (max-width: 991px) {
+    .project-detail-container {
+        grid-template-columns: 1fr;
+    }
+
+    .project-images-scrapbook {
+        margin-bottom: 4rem;
+        height: 50vh;
+    }
+
+    .footer {
+        margin-top: 10rem;
+    }
+}
